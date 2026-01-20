@@ -1,5 +1,5 @@
 def my_fun(a,b):
-    bmi=weight/height**2
+    bmi= weight/height**2
     print(bmi)                  
    
     return bmi                                   #return output
@@ -9,3 +9,4 @@ resent=my_fun(weight,height)                     # function call
 print(resent)    
 
 print(round(resent,2))                           # roundoff 
+
